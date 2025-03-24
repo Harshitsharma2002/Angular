@@ -9,5 +9,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'HelloBridgelabz';
-  logoUrl= '..assets\download (1).jpg'
+  logoUrl= '..assets\download (1).jpg';
+  websiteURL= 'https://www.bridgelabz.com/';
 }
